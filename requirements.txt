@@ -1,0 +1,10 @@
+fastapi
+fastapi[standard]
+uvicorn[standard]
+SQLAlchemy==2.0.31
+pydantic
+pydantic-settings
+fastapi_problem_details
+python-dotenv
+asyncpg
+sqlmodel
